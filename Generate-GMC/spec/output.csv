@@ -1,0 +1,43 @@
+﻿ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Date sale price starts,Date sale price ends,Tax status,Tax class,In stock?,Stock,Low stock amount,Backorders allowed?,Sold individually?,Weight (kg),Length (cm),Width (cm),Height (cm),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,Cross-sells,External URL,Button text,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global,Attribute 1 default,Attribute 2 name,Attribute 2 value(s),Attribute 2 visible,Attribute 2 global,Attribute 2 default,Attribute 3 name,Attribute 3 value(s),Attribute 3 visible,Attribute 3 global,Attribute 3 default
+,variable,S200713131036SBE-poster-ngang,Widow when i simply say i miss him i miss his smile voice laugh him next to me miss so much butterflies flowers poster,1,0,visible,,"Widow when i simply say i miss him i miss his smile voice laugh him next to me miss so much butterflies flowers poster
+
+<p>Poster: affordable, perfect decoration for your blank wall</p>
+<p></p>
+<p>- Printed on high-quality, fade resistant paper providing the best quality image</p><p></p>
+<p>- Vivid color reproduction, exceptional sharpness and unsurpassed color stability</p><p></p>
+<p>- Matte finish</p>
+<p>Canvas: Designed to stay taut and flat, museum-grade and light in weight</p>
+<p>- Mounted on high density wood fiberboard</p>
+<p>- Hard sealed finished backing keeps dust out and walls protected</p>
+<p>- Pigment-based inkjet printing ensure high quality printing</p>
+<p>- OBA-free</p>
+<p>- Comes with hardware, ready to hang</p>",,,taxable,,1,,,0,0,,,,,1,,,22.99,butterfly,butterfly,,"https://spyfb.nyc3.cdn.digitaloceanspaces.com/spyfb-posts/5f0ba7a976c4de6048ba85a0.jpg,https://nyc3.digitaloceanspaces.com/ishopj/General/anh-poster-canvas/poster-canvas-ngang/poster-ngang-3.jpg,https://nyc3.digitaloceanspaces.com/ishopj/General/anh-poster-canvas/poster-canvas-ngang/canvas-ngang-3.jpg,https://nyc3.digitaloceanspaces.com/ishopj/General/anh-poster-canvas/mockup2.jpg",,,,,,,,,0,,,,,,,,,,,,,,,
+,variable,S211108111406MZN-romper-1,Santa Grinch Miami Dolphins Sitting on Jets Bills Patriots Toilet Christmas Gift For Dolphins Fans Romper Jumpsuit,1,0,visible,,"Santa Grinch Miami Dolphins Sitting on Jets Bills Patriots Toilet Christmas Gift For Dolphins Fans Romper Jumpsuit
+
+<p>
+<p>All of our <strong>Rompers </strong>are custom-made-to-order and handcrafted to the highest quality standards.
+</p>
+<ul>
+    <li>
+Material: 90% ployester+ 10% cotton
+    </li>
+    <li>
+        Extremely soft to the touch, will never fade!
+    </li>
+    <li>
+        Hand washes cold, hang, or line dry
+    </li>
+	<li>Please note that slight color difference should be acceptable due to the light and screen.
+    </li>
+</ul>
+</p>",,,taxable,,1,,,0,0,,,,,1,,,42.99,AA,"211108-scale3d-1026,d211110,sc-10108445-all-sizecharts-509",,"https://img.btdmp.com/10108/10108445/products/origin/16366881983cc910b906.jpeg,https://img.btdmp.com/10108/10108445/products/origin/1636688198ab8e731f14.jpeg,https://img.btdmp.com/10108/10108445/products/origin/16366881982c6fe6812a.jpeg,https://img.btdmp.com/10108/10108445/products/origin/163668819846a75d95a6.jpeg",,,,,,,,,0,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+các cột khác giữ nguyên giá trị,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"các cột quan trọng 
+lấy từ input hoặc xử lý input",,Variant Sku,Title,,,,,Body (Html),,,,,,,,,,,,,,,,,Variant Price,regex match từ title,xử lý Tags,,concat các Image Src,,,,,,,,,,,,,,,,,,,,,,,,
